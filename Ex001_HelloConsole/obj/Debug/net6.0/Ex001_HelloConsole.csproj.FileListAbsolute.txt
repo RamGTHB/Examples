@@ -1,0 +1,15 @@
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Examples\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.exe
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Examples\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.deps.json
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Examples\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.runtimeconfig.json
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Examples\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.dll
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Examples\Ex001_HelloConsole\bin\Debug\net6.0\ref\Ex001_HelloConsole.dll
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Examples\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.pdb
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Examples\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Examples\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Examples\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Examples\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.AssemblyInfo.cs
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Examples\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Examples\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.dll
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Examples\Ex001_HelloConsole\obj\Debug\net6.0\ref\Ex001_HelloConsole.dll
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Examples\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.pdb
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Examples\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.genruntimeconfig.cache
