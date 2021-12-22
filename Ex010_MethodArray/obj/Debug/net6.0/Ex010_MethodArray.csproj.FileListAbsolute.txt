@@ -1,0 +1,15 @@
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex010_MethodArray\bin\Debug\net6.0\Ex010_MethodArray.exe
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex010_MethodArray\bin\Debug\net6.0\Ex010_MethodArray.deps.json
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex010_MethodArray\bin\Debug\net6.0\Ex010_MethodArray.runtimeconfig.json
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex010_MethodArray\bin\Debug\net6.0\Ex010_MethodArray.dll
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex010_MethodArray\bin\Debug\net6.0\ref\Ex010_MethodArray.dll
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex010_MethodArray\bin\Debug\net6.0\Ex010_MethodArray.pdb
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex010_MethodArray\obj\Debug\net6.0\Ex010_MethodArray.csproj.AssemblyReference.cache
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex010_MethodArray\obj\Debug\net6.0\Ex010_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex010_MethodArray\obj\Debug\net6.0\Ex010_MethodArray.AssemblyInfoInputs.cache
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex010_MethodArray\obj\Debug\net6.0\Ex010_MethodArray.AssemblyInfo.cs
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex010_MethodArray\obj\Debug\net6.0\Ex010_MethodArray.csproj.CoreCompileInputs.cache
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex010_MethodArray\obj\Debug\net6.0\Ex010_MethodArray.dll
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex010_MethodArray\obj\Debug\net6.0\ref\Ex010_MethodArray.dll
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex010_MethodArray\obj\Debug\net6.0\Ex010_MethodArray.pdb
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex010_MethodArray\obj\Debug\net6.0\Ex010_MethodArray.genruntimeconfig.cache
