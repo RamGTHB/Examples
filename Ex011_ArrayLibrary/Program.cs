@@ -26,7 +26,7 @@ int IndexOf(int[] collection, int find)
 {
     int count = collection.Length;
     int index = 0;
-    int position = -1;
+    int position = -1; // (-1) Покажет если в массиве нет указанного числа т.к (0 - это первый индекс)
 
     while(index < count)
     {
@@ -44,8 +44,8 @@ int[] array = new int[10]; // создать новый массив в деся
 
 FillArray(array); // Метод заполнения массива рандомными цифрами
 // Добавили в массив четверку на эти позиции, она будет там всегда
-array[4] = 4;
-array[6] = 4;
+// array[4] = 4;
+// array[6] = 4;
 PrintArray(array); // Метод печатает массив в консоль
 Console.WriteLine();
 
