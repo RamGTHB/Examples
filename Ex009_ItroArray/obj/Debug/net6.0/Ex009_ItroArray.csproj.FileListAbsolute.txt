@@ -1,0 +1,15 @@
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex009_ItroArray\bin\Debug\net6.0\Ex009_ItroArray.exe
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex009_ItroArray\bin\Debug\net6.0\Ex009_ItroArray.deps.json
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex009_ItroArray\bin\Debug\net6.0\Ex009_ItroArray.runtimeconfig.json
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex009_ItroArray\bin\Debug\net6.0\Ex009_ItroArray.dll
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex009_ItroArray\bin\Debug\net6.0\ref\Ex009_ItroArray.dll
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex009_ItroArray\bin\Debug\net6.0\Ex009_ItroArray.pdb
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex009_ItroArray\obj\Debug\net6.0\Ex009_ItroArray.csproj.AssemblyReference.cache
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex009_ItroArray\obj\Debug\net6.0\Ex009_ItroArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex009_ItroArray\obj\Debug\net6.0\Ex009_ItroArray.AssemblyInfoInputs.cache
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex009_ItroArray\obj\Debug\net6.0\Ex009_ItroArray.AssemblyInfo.cs
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex009_ItroArray\obj\Debug\net6.0\Ex009_ItroArray.csproj.CoreCompileInputs.cache
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex009_ItroArray\obj\Debug\net6.0\Ex009_ItroArray.dll
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex009_ItroArray\obj\Debug\net6.0\ref\Ex009_ItroArray.dll
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex009_ItroArray\obj\Debug\net6.0\Ex009_ItroArray.pdb
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex009_ItroArray\obj\Debug\net6.0\Ex009_ItroArray.genruntimeconfig.cache

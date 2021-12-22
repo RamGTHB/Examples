@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ex009_ItroArray/1.0.0": {
+        "runtime": {
+          "Ex009_ItroArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex009_ItroArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
