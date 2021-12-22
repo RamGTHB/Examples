@@ -1,0 +1,15 @@
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex011_ArrayLibrary\obj\Debug\net6.0\Ex011_ArrayLibrary.csproj.AssemblyReference.cache
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex011_ArrayLibrary\obj\Debug\net6.0\Ex011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex011_ArrayLibrary\obj\Debug\net6.0\Ex011_ArrayLibrary.AssemblyInfoInputs.cache
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex011_ArrayLibrary\obj\Debug\net6.0\Ex011_ArrayLibrary.AssemblyInfo.cs
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex011_ArrayLibrary\obj\Debug\net6.0\Ex011_ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex011_ArrayLibrary\bin\Debug\net6.0\Ex011_ArrayLibrary.exe
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex011_ArrayLibrary\bin\Debug\net6.0\Ex011_ArrayLibrary.deps.json
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex011_ArrayLibrary\bin\Debug\net6.0\Ex011_ArrayLibrary.runtimeconfig.json
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex011_ArrayLibrary\bin\Debug\net6.0\Ex011_ArrayLibrary.dll
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex011_ArrayLibrary\bin\Debug\net6.0\ref\Ex011_ArrayLibrary.dll
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex011_ArrayLibrary\bin\Debug\net6.0\Ex011_ArrayLibrary.pdb
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex011_ArrayLibrary\obj\Debug\net6.0\Ex011_ArrayLibrary.dll
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex011_ArrayLibrary\obj\Debug\net6.0\ref\Ex011_ArrayLibrary.dll
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex011_ArrayLibrary\obj\Debug\net6.0\Ex011_ArrayLibrary.pdb
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex011_ArrayLibrary\obj\Debug\net6.0\Ex011_ArrayLibrary.genruntimeconfig.cache
