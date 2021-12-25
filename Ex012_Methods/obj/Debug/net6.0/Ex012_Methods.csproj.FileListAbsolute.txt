@@ -1,0 +1,15 @@
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex012_Methods\bin\Debug\net6.0\Ex012_Methods.exe
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex012_Methods\bin\Debug\net6.0\Ex012_Methods.deps.json
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex012_Methods\bin\Debug\net6.0\Ex012_Methods.runtimeconfig.json
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex012_Methods\bin\Debug\net6.0\Ex012_Methods.dll
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex012_Methods\bin\Debug\net6.0\ref\Ex012_Methods.dll
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex012_Methods\bin\Debug\net6.0\Ex012_Methods.pdb
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex012_Methods\obj\Debug\net6.0\Ex012_Methods.csproj.AssemblyReference.cache
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex012_Methods\obj\Debug\net6.0\Ex012_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex012_Methods\obj\Debug\net6.0\Ex012_Methods.AssemblyInfoInputs.cache
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex012_Methods\obj\Debug\net6.0\Ex012_Methods.AssemblyInfo.cs
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex012_Methods\obj\Debug\net6.0\Ex012_Methods.csproj.CoreCompileInputs.cache
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex012_Methods\obj\Debug\net6.0\Ex012_Methods.dll
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex012_Methods\obj\Debug\net6.0\ref\Ex012_Methods.dll
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex012_Methods\obj\Debug\net6.0\Ex012_Methods.pdb
+C:\Users\ermol\Downloads\WORK\5\Lec\Examples\Ex012_Methods\obj\Debug\net6.0\Ex012_Methods.genruntimeconfig.cache
