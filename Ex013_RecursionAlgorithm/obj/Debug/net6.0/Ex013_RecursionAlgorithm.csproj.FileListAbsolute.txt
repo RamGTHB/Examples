@@ -1,0 +1,15 @@
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Lec\Examples\Ex013_RecursionAlgorithm\bin\Debug\net6.0\Ex013_RecursionAlgorithm.exe
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Lec\Examples\Ex013_RecursionAlgorithm\bin\Debug\net6.0\Ex013_RecursionAlgorithm.deps.json
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Lec\Examples\Ex013_RecursionAlgorithm\bin\Debug\net6.0\Ex013_RecursionAlgorithm.runtimeconfig.json
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Lec\Examples\Ex013_RecursionAlgorithm\bin\Debug\net6.0\Ex013_RecursionAlgorithm.dll
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Lec\Examples\Ex013_RecursionAlgorithm\bin\Debug\net6.0\ref\Ex013_RecursionAlgorithm.dll
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Lec\Examples\Ex013_RecursionAlgorithm\bin\Debug\net6.0\Ex013_RecursionAlgorithm.pdb
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Lec\Examples\Ex013_RecursionAlgorithm\obj\Debug\net6.0\Ex013_RecursionAlgorithm.csproj.AssemblyReference.cache
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Lec\Examples\Ex013_RecursionAlgorithm\obj\Debug\net6.0\Ex013_RecursionAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Lec\Examples\Ex013_RecursionAlgorithm\obj\Debug\net6.0\Ex013_RecursionAlgorithm.AssemblyInfoInputs.cache
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Lec\Examples\Ex013_RecursionAlgorithm\obj\Debug\net6.0\Ex013_RecursionAlgorithm.AssemblyInfo.cs
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Lec\Examples\Ex013_RecursionAlgorithm\obj\Debug\net6.0\Ex013_RecursionAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Lec\Examples\Ex013_RecursionAlgorithm\obj\Debug\net6.0\Ex013_RecursionAlgorithm.dll
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Lec\Examples\Ex013_RecursionAlgorithm\obj\Debug\net6.0\ref\Ex013_RecursionAlgorithm.dll
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Lec\Examples\Ex013_RecursionAlgorithm\obj\Debug\net6.0\Ex013_RecursionAlgorithm.pdb
+C:\Users\ermol\Downloads\WORK\5 Знакомство с языками программирования\Lec\Examples\Ex013_RecursionAlgorithm\obj\Debug\net6.0\Ex013_RecursionAlgorithm.genruntimeconfig.cache
